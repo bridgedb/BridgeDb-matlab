@@ -1,0 +1,115 @@
+original, source, source_code, mapping, target, target_code 
+A1BG, HGNC, H, uc002qsd.5, UCSC Genome Browser, Uc
+A1BG, HGNC, H, 8039748, iAffy, X
+A1BG, HGNC, H, GO:0072562, GeneOntology, T
+A1BG, HGNC, H, uc061drj.1, UCSC Genome Browser, Uc
+A1BG, HGNC, H, ILMN_2055271, Illumina, Il
+A1BG, HGNC, H, Hs.529161, UniGene, U
+A1BG, HGNC, H, GO:0070062, GeneOntology, T
+A1BG, HGNC, H, GO:0002576, GeneOntology, T
+A1BG, HGNC, H, uc061drt.1, UCSC Genome Browser, Uc
+A1BG, HGNC, H, 51020_at, iAffy, X
+A1BG, HGNC, H, A_33_P3685216, Agilent, Ag
+A1BG, HGNC, H, GO:0031012, GeneOntology, T
+A1BG, HGNC, H, GO:0031093, GeneOntology, T
+A1BG, HGNC, H, uc061drm.1, UCSC Genome Browser, Uc
+A1BG, HGNC, H, ILMN_1736007, Illumina, Il
+A1BG, HGNC, H, uc061drl.1, UCSC Genome Browser, Uc
+A1BG, HGNC, H, 138670, OMIM, Om
+A1BG, HGNC, H, V9HWD8, Uniprot-TrEMBL, S
+A1BG, HGNC, H, P04217, Uniprot-TrEMBL, S
+A1BG, HGNC, H, ENSG00000121410, Ensembl, En
+A1BG, HGNC, H, GO:0005615, GeneOntology, T
+A1BG, HGNC, H, NP_570602, RefSeq, Q
+A1BG, HGNC, H, A1BG, HGNC, H
+A1BG, HGNC, H, M0R009, Uniprot-TrEMBL, S
+A1BG, HGNC, H, GO:1904813, GeneOntology, T
+A1BG, HGNC, H, GO:0043312, GeneOntology, T
+A1BG, HGNC, H, GO:0003674, GeneOntology, T
+A1BG, HGNC, H, GO:0005576, GeneOntology, T
+A1BG, HGNC, H, 229819_at, iAffy, X
+A1BG, HGNC, H, GO:0034774, GeneOntology, T
+A1BG, HGNC, H, 0001780541, Illumina, Il
+A1BG, HGNC, H, A_24_P151121, Agilent, Ag
+A1BG, HGNC, H, GO:0008150, GeneOntology, T
+A1BG, HGNC, H, 11741180_a_at, iAffy, X
+A1BG, HGNC, H, NM_130786, RefSeq, Q
+A1BG, HGNC, H, 16876116, iAffy, X
+A1CF, HGNC, H, NM_014576, RefSeq, Q
+A1CF, HGNC, H, uc010qhn.3, UCSC Genome Browser, Uc
+A1CF, HGNC, H, Q9NQ94, Uniprot-TrEMBL, S
+A1CF, HGNC, H, A0A024QZM7, Uniprot-TrEMBL, S
+A1CF, HGNC, H, ILMN_1893846, Illumina, Il
+A1CF, HGNC, H, ILMN_2383229, Illumina, Il
+A1CF, HGNC, H, NP_001185749, RefSeq, Q
+A1CF, HGNC, H, NP_001185748, RefSeq, Q
+A1CF, HGNC, H, NP_001185747, RefSeq, Q
+A1CF, HGNC, H, 0004610438, Illumina, Il
+A1CF, HGNC, H, 11746909_a_at, iAffy, X
+A1CF, HGNC, H, ILMN_1806310, Illumina, Il
+A1CF, HGNC, H, uc001jjh.4, UCSC Genome Browser, Uc
+A1CF, HGNC, H, GO:0005515, GeneOntology, T
+A1CF, HGNC, H, 7933640, iAffy, X
+A1CF, HGNC, H, uc009xov.4, UCSC Genome Browser, Uc
+A1CF, HGNC, H, GO:0005634, GeneOntology, T
+A1CF, HGNC, H, A0A024QZJ5, Uniprot-TrEMBL, S
+A1CF, HGNC, H, uc057tgy.1, UCSC Genome Browser, Uc
+A1CF, HGNC, H, 29974, Entrez Gene, L
+A1CF, HGNC, H, A0A024QZI9, Uniprot-TrEMBL, S
+A1CF, HGNC, H, uc057tgu.1, UCSC Genome Browser, Uc
+A1CF, HGNC, H, 47095_at, iAffy, X
+A1CF, HGNC, H, uc057tgw.1, UCSC Genome Browser, Uc
+A1CF, HGNC, H, 66976_r_at, iAffy, X
+A1CF, HGNC, H, ENSG00000148584, Ensembl, En
+A1CF, HGNC, H, GO:0030895, GeneOntology, T
+A1CF, HGNC, H, GO:0003723, GeneOntology, T
+A1CF, HGNC, H, ILMN_1883785, Illumina, Il
+A1CF, HGNC, H, GO:0003727, GeneOntology, T
+A1CF, HGNC, H, A1CF, HGNC, H
+A1CF, HGNC, H, NM_001198818, RefSeq, Q
+A1CF, HGNC, H, NM_001198819, RefSeq, Q
+A1CF, HGNC, H, 220951_s_at, iAffy, X
+A1CF, HGNC, H, 2CPD, PDB, Pd
+A1CF, HGNC, H, GO:0005783, GeneOntology, T
+A1CF, HGNC, H, ILMN_1779670, Illumina, Il
+A1CF, HGNC, H, GO:0007566, GeneOntology, T
+A1CF, HGNC, H, uc010qho.3, UCSC Genome Browser, Uc
+A1CF, HGNC, H, NM_138933, RefSeq, Q
+A1CF, HGNC, H, 57966_at, iAffy, X
+A1CF, HGNC, H, A_23_P104224, Agilent, Ag
+A1CF, HGNC, H, Q5T0W7, Uniprot-TrEMBL, S
+A1CF, HGNC, H, NM_138932, RefSeq, Q
+A1CF, HGNC, H, GO:0016554, GeneOntology, T
+A1CF, HGNC, H, 29974, WikiGenes, Wg
+A1CF, HGNC, H, 0004610332, Illumina, Il
+A1CF, HGNC, H, GO:0016556, GeneOntology, T
+A1CF, HGNC, H, GO:0050821, GeneOntology, T
+A1CF, HGNC, H, NM_001198820, RefSeq, Q
+A1CF, HGNC, H, A_24_P570378, Agilent, Ag
+A1CF, HGNC, H, GO:0005737, GeneOntology, T
+A1CF, HGNC, H, GO:0005654, GeneOntology, T
+A1CF, HGNC, H, 16714348, iAffy, X
+A1CF, HGNC, H, GO:0010609, GeneOntology, T
+A1CF, HGNC, H, uc001jji.4, UCSC Genome Browser, Uc
+A1CF, HGNC, H, GO:0003676, GeneOntology, T
+A1CF, HGNC, H, uc057tgz.1, UCSC Genome Browser, Uc
+A1CF, HGNC, H, 11745515_a_at, iAffy, X
+A1CF, HGNC, H, 241547_at, iAffy, X
+A1CF, HGNC, H, GO:0006397, GeneOntology, T
+A1CF, HGNC, H, Hs.282795, UniGene, U
+A1CF, HGNC, H, uc057tgv.1, UCSC Genome Browser, Uc
+A1CF, HGNC, H, F8W9F8, Uniprot-TrEMBL, S
+A1CF, HGNC, H, NP_620310, RefSeq, Q
+A1CF, HGNC, H, NP_620311, RefSeq, Q
+A1CF, HGNC, H, NP_055391, RefSeq, Q
+A2MP1, HGNC, H, 17120790, iAffy, X
+A2MP1, HGNC, H, A_21_P0011082, Agilent, Ag
+A2MP1, HGNC, H, Hs.627439, UniGene, U
+A2MP1, HGNC, H, A_21_P0000904, Agilent, Ag
+A2MP1, HGNC, H, Hs.569125, UniGene, U
+A2MP1, HGNC, H, Hs.730403, UniGene, U
+A2MP1, HGNC, H, 16761106, iAffy, X
+A2MP1, HGNC, H, 16761118, iAffy, X
+A2MP1, HGNC, H, ENSG00000256069, Ensembl, En
+A2MP1, HGNC, H, A2MP1, HGNC, H
+A2MP1, HGNC, H, NR_040112, RefSeq, Q
