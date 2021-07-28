@@ -8,9 +8,7 @@ Van Iersel, M.;  Pico, A.;  Kelder, T.;  Gao, J.;  Ho, I.;   Hanspers, K.;  Conk
 
 The DOI of this repository is ADD-DOI
 
-The source code of this package is available from ADD-BRIDGEDB-LINK
-
-License: AGPL-3
+License: [AGPL-3](../main/LICENSE.txt)
 
 
 # BridgeDb-matlab Usage Instructions:
