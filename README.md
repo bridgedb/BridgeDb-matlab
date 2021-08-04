@@ -18,6 +18,12 @@ For Python, check if you use a supported version on the command line (Bash/Unix 
 ```
 python -V
 ```
+Check if Python is setup correctly in Matlab, from the Matlab Command Window:
+
+```Matlab
+pe = pyenv
+```
+
 
 Download this repository:
 ```
