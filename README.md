@@ -33,6 +33,10 @@ Your Current folder in Matlab should look like this now:
 ```Matlab
 pwd
 ```
+- Execute the XrefsBatch mapping function on the test data, located in the 'testData' folder, as such:
+```Matlab
+ xrefsBatch('testData/case1-example.tsv', 'Homo sapiens', 'H')
+ ```
 
 Matlab Online:
 ...tba...
