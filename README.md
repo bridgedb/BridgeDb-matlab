@@ -29,6 +29,10 @@ Right-click, 'Add to Path'/'Selected Folders and Subfolders'
 Your Current folder in Matlab should look like this now:
 ![image](https://user-images.githubusercontent.com/26277832/128179968-e1d504e5-8622-461f-af70-ad23b205a0a4.png)
 
+- In the Matlab command window, type the following command to check your pathway directory:
+```Matlab
+pwd
+```
 
 Matlab Online:
 ...tba...
