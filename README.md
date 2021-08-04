@@ -37,6 +37,11 @@ pwd
 ```Matlab
  xrefsBatch('testData/case1-example.tsv', 'Homo sapiens', 'H')
  ```
+ 
+ **Note**: if you get the following warning, please check your Python setup:
+ ```
+ python: can't open file 'to_df.py': [Errno 2] No such file or directory
+ ```
 
 Matlab Online:
 ...tba...
