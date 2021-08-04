@@ -23,8 +23,6 @@ Check if Python is setup correctly in Matlab, from the Matlab Command Window:
 ```Matlab
 pe = pyenv
 ```
-
-
 Download this repository:
 ```
 git clone https://github.com/bridgedb/BridgeDb-matlab.git
@@ -50,8 +48,13 @@ pwd
  xrefsBatch('testData/case1-example.tsv', 'Homo sapiens', 'H')
  ```
 - Your results are stored in your working directory, as a file called 'mappings.csv' :
-- 
+
 ![image](https://user-images.githubusercontent.com/26277832/128185709-f21fd6d6-5ee8-422b-b224-6e2398e0aa41.png)
+
+- You can view your results by double clicking the mappings.csv file in the Matlab working directory:
+
+![image](https://user-images.githubusercontent.com/26277832/128186171-d2e5beb9-48a7-4b87-9616-7d90b618afd7.png)
+
 
 Matlab Online:
 ...tba...
