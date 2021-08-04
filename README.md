@@ -21,10 +21,12 @@ git clone https://github.com/bridgedb/BridgeDb-matlab.git
 ```
 Local Matlab installation:
 - Start your version of Matlab [tested with Matlab 2021A]
-- Go to the folder where you donwloaded this code (e.g. BridgeDb-matlab) and open the folder (double click or rightclick/Open).
-Your Current folder in Matlab should look like this now:
-![image](https://user-images.githubusercontent.com/26277832/128178459-912d81be-e929-4dfb-a602-74d0cbdc073f.png)
+- Add the folder where you donwloaded this code (e.g. BridgeDb-matlab) to your working directory:
+Right-click, 'Add to Path'/'Selected Folders and Subfolders'
 
+- Open the folder (double click or rightclick/Open).
+Your Current folder in Matlab should look like this now:
+![image](https://user-images.githubusercontent.com/26277832/128179863-0ec98cfc-a93b-4600-a24e-44e08fed04f3.png)
 
 
 Matlab Online:
