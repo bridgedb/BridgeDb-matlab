@@ -13,7 +13,11 @@ License: [AGPL-3](../main/LICENSE.txt)
 
 # BridgeDb-matlab Usage Instructions:
 
-Please download Matlab first, as well as Python ([instructions for Windows users](https://nl.mathworks.com/help/matlab/matlab_external/install-supported-python-implementation.html)).
+Please download Matlab first, as well as Python ([instructions](https://nl.mathworks.com/help/matlab/matlab_external/install-supported-python-implementation.html)).
+For Python, check if you use a supported version on the command line (Bash/Unix users):
+```
+python -V
+```
 
 Download this repository:
 ```
