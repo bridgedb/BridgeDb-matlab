@@ -33,10 +33,12 @@ Local Matlab installation:
 - Start your version of Matlab [tested with Matlab 2021A]
 - Add the folder where you donwloaded this code (e.g. BridgeDb-matlab) to your working directory:
 Right-click, 'Add to Path'/'Selected Folders and Subfolders'
+
 ![image](https://user-images.githubusercontent.com/26277832/128179863-0ec98cfc-a93b-4600-a24e-44e08fed04f3.png)
 
 - Open the folder (double click or rightclick/Open).
 Your Current folder in Matlab should look like this now:
+
 ![image](https://user-images.githubusercontent.com/26277832/128179968-e1d504e5-8622-461f-af70-ad23b205a0a4.png)
 
 - In the Matlab command window, type the following command to check your pathway directory:
@@ -47,11 +49,9 @@ pwd
 ```Matlab
  xrefsBatch('testData/case1-example.tsv', 'Homo sapiens', 'H')
  ```
- 
- **Note**: if you get the following warning, please check your Python setup:
- ```
- python: can't open file 'to_df.py': [Errno 2] No such file or directory
- ```
+- Your results are stored in your working directory, as a file called 'mappings.csv' :
+- 
+![image](https://user-images.githubusercontent.com/26277832/128185709-f21fd6d6-5ee8-422b-b224-6e2398e0aa41.png)
 
 Matlab Online:
 ...tba...
