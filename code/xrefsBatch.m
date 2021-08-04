@@ -8,5 +8,5 @@ function response = xrefsBatch(filepath, org, source)				%Three arguments are ne
     fid = fopen('response.txt','w');						%Opening a file to record the response as a .txt file.
     fprintf(fid,'%s',response);							%Writing the response information to the file.
     fclose(fid);								%Closing the file.
-    system('python to_df.py response.txt');					%Py: Executing the Python code (to_df.py) on the .txt file.
+    system('python code/to_df.py response.txt');				%Py: Executing the Python code (to_df.py) on the .txt file.
 end

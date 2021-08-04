@@ -3,7 +3,7 @@ import json                     # The System Codes from BridgeDb are linked to t
 filepath = sys.argv[1]      # Specifify the filepath (where Matlab saved the response.txt file).
 with open(filepath, 'r') as handle:                                         # Read the response file.
     res = handle.read()
-with open('system_codes.json', 'r') as handle:                     # Read the System Codes file.
+with open('code/system_codes.json', 'r') as handle:                     # Read the System Codes file.
     system_codes = json.loads(handle.read())
 
 inverted_codes = {v:k for k,v in system_codes.items()}      # Create a Python Dictionary to store the System Code - Database name as key,value pairs.
