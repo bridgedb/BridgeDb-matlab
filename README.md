@@ -62,3 +62,7 @@ Matlab Online:
 
 ![MatlabOnline_Upload](https://user-images.githubusercontent.com/26277832/133572946-807455f6-e6fb-41b6-9792-13e201dbc587.png)
 
+When the upload succeeded, you should see the BridgeDb-Matlab folde rin your drive, and in you Matlab Online Instance:
+![MatlabOnline_drive](https://user-images.githubusercontent.com/26277832/133573305-d8061c35-b170-4cef-bbd1-f44b21cd43ac.png)
+
+![MatlabOnline_workingdirectory](https://user-images.githubusercontent.com/26277832/133573480-2f66646c-cf31-462f-aaf2-fad15e8b0556.png)
