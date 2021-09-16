@@ -58,6 +58,7 @@ pwd
 
 Matlab Online:
 - Visit the [matlab online page](https://www.mathworks.com/products/matlab-online.html)
-- Add the folder where you donwloaded this code (e.g. BridgeDb-matlab) to your working directory:
-In the top menu: Open/Open
-![matlab_online_Open](https://user-images.githubusercontent.com/26277832/133567815-b9ec831b-dfa9-4b69-a5d6-37addfe449a8.png)
+- [Upload the folder](https://nl.mathworks.com/help/matlabmobile/ug/use-files-on-the-cloud.html) where you donwloaded this code (e.g. BridgeDb-matlab) to your [Matlab Drive](https://drive.matlab.com/).
+
+![MatlabOnline_Upload](https://user-images.githubusercontent.com/26277832/133572946-807455f6-e6fb-41b6-9792-13e201dbc587.png)
+
