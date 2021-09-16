@@ -68,5 +68,6 @@ When the upload succeeded, you should see the BridgeDb-Matlab folde rin your dri
 ![MatlabOnline_workingdirectory](https://user-images.githubusercontent.com/26277832/133573480-2f66646c-cf31-462f-aaf2-fad15e8b0556.png)
 
 - Add the folder to your working directory:
+
 ![MatlabOnline_addToPath](https://user-images.githubusercontent.com/26277832/133573880-943b7da1-ab75-450a-95d9-5bd3c309c53c.png)
 
