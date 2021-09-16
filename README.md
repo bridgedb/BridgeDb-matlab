@@ -57,4 +57,7 @@ pwd
 
 
 Matlab Online:
-...tba...
+- Visit the [matlab online page](https://www.mathworks.com/products/matlab-online.html)
+- Add the folder where you donwloaded this code (e.g. BridgeDb-matlab) to your working directory:
+In the top menu: Open/Open
+![matlab_online_Open](https://user-images.githubusercontent.com/26277832/133567815-b9ec831b-dfa9-4b69-a5d6-37addfe449a8.png)
