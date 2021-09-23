@@ -5,8 +5,8 @@ function response = xrefsBatch(filepath, org, source)				%Three arguments are ne
     ws_call = 'https://webservice.bridgedb.org/%s/xrefsBatch/%s';		%Defining the xrefBatch URL.
     response = webwrite(sprintf(ws_call, org, source), data, options);		%Executing the webservice call on the arguments defined when calling the function.
 
-    fid = fopen('response.txt','w');						%Opening a file to record the response as a .txt file.
+    fid = fopen('BridgeDb-matlab/testData/response.txt','w');						%Opening a file to record the response as a .txt file.
     fprintf(fid,'%s',response);							%Writing the response information to the file.
     fclose(fid);								%Closing the file.
-    system('python code/to_df.py response.txt');				%Py: Executing the Python code (to_df.py) on the .txt file.
+    system('python BridgeDb-matlab/code/to_df.py BridgeDb-matlab/testData/response.txt');				%Py: Executing the Python code (to_df.py) on the .txt file.
 end
