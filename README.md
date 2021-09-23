@@ -63,11 +63,16 @@ When the upload succeeded, you should see the BridgeDb-Matlab folde rin your dri
 ```Matlab
 pwd
 ```
+- Switch to the folder containing your code (if needed):
+```Matlab
+cd('PATH/TO/FILE')
+```
+
 - Execute the XrefsBatch mapping function on the test data, located in the 'testData' folder, as such:
 ```Matlab
- xrefsBatch('testData/case1-example.tsv', 'Homo sapiens', 'H')
+ xrefsBatch('BridgeDb-matlab/testData/case1-example.tsv', 'Homo sapiens', 'H')
  ```
-- Your results are stored in your working directory, as a file called 'mappings.csv' :
+- Your results are stored in your working directory, as a file called 'mappings.csv' (located in the folder testData):
 
 ![image](https://user-images.githubusercontent.com/26277832/128185709-f21fd6d6-5ee8-422b-b224-6e2398e0aa41.png)
 
