@@ -1,4 +1,4 @@
-# BridgeDb Matlab functions
+# BridgeDb-Matlab functions
 
 Functions to use the BridgeDb webservice in Matlab. BridgeDb is a tool for identifier mapping.
 
@@ -11,7 +11,7 @@ The DOI of this repository is [10.5281/zenodo.5550067](https://doi.org/10.5281/z
 License: [AGPL-3](LICENSE.txt)
 
 
-# BridgeDb-matlab Usage Instructions:
+# BridgeDb-Matlab Usage Instructions:
 
 Please download Matlab first, as well as Python ([instructions](https://nl.mathworks.com/help/matlab/matlab_external/install-supported-python-implementation.html)).
 For Python, check if you use a supported version (version 2.7, 3.7, and 3.8 are currently supported)
